@@ -3,7 +3,7 @@
 In this assignment, I enhanced a previous assignment with a mobile-responsive layout.
 
 ## Live Link (GitHub Pages)
-- https://mz1387.github.io/Responsive-Portfolio/
+- https://mz1387.github.io/HW_Responsive-Portfolio/
 
 ## Description on how to use the app
 Website responds to multiple screen sizes: 980px, 768px and 640px
